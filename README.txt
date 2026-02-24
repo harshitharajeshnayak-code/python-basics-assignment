@@ -1,7 +1,7 @@
 # 🚀 CampusPe – GenAI Internship Assignment  
 
 ## 👤 Author  
-**Name:** Hemanth Kumar  
+**Name:** Harshitha rajeshnayak  
 **Program:** CampusPe GenAI Internship  
 **Assignment Type:** Programming Exercises  
 
@@ -35,9 +35,7 @@ All programs are written in **Python** and are designed to be executed individua
 | Q4  | Age Calculator |
 | Q5  | Bill Splitter |
 | Q6  | Grade Calculator |
-| Q7  | Temperature Converter |
 | Q8  | Leap Year Checker |
-| Q9  | Ticket Pricing System |
 | Q10 | Simple ATM Simulator |
 | Q11 | Number Pattern Printer |
 | Q12 | Multiplication Table Generator |
@@ -47,7 +45,6 @@ All programs are written in **Python** and are designed to be executed individua
 | Q16 | Number Guessing Game |
 | Q17 | Palindrome Checker |
 | Q18 | Calculator Functions |
-| Q19 | Text Analysis Functions |
 | Q20 | Number System Functions |
 
 ---
@@ -65,7 +62,7 @@ python filename.py
 Example:
 
 ```bash
-python q1_personal_bio_card.py
+python Q1_personal_bio_card
 ```
 
 ---
@@ -98,5 +95,6 @@ During the completion of these exercises, the following concepts were strengthen
 ---
 
 ## 📈 Conclusion  
+
 
 This assignment helped reinforce fundamental programming concepts and improved problem-solving skills using Python. Each exercise builds practical understanding that serves as a strong foundation for advanced development tasks.
